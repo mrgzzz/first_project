@@ -55,6 +55,8 @@ CORS_ORIGIN=https://frontend-k5gmq8v35-mrgzzzs-projects.vercel.app
 
 ## Скриншоты работающего приложения
 <img width="369" height="242" alt="image" src="https://github.com/user-attachments/assets/69c9f83c-05e9-45d5-8b16-3878b69acfcd" />
+<img width="642" height="241" alt="image" src="https://github.com/user-attachments/assets/057df9cb-feab-4655-866c-76b6044b9728" />
+
 Приложение успешно загружается и отображает данные с бэкенда
 
 ## Проблемы и их решения
@@ -70,6 +72,7 @@ CORS_ORIGIN=https://frontend-k5gmq8v35-mrgzzzs-projects.vercel.app
 
 ## Тестирование после деплоя
 Приложение открывается в браузере
+
 
 
 

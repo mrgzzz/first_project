@@ -25,8 +25,8 @@
 
 ## Ссылки на задеплоенные приложения
 
-- Frontend: [your-app.vercel.app](https://your-app.vercel.app)
-- Backend: [your-api.railway.app](https://your-api.railway.app)
+- Frontend: [https://frontend-k5gmq8v35-mrgzzzs-projects.vercel.app](https://frontend-k5gmq8v35-mrgzzzs-projects.vercel.app)
+- Backend: [https://pr25-backend-production.up.railway.app](https://pr25-backend-production.up.railway.app)
 
 ## Проверка работы
 

@@ -52,7 +52,7 @@ pr25-project/
 ```env
 NODE_ENV=production
 PORT=5000
-CORS_ORIGIN=https://frontend-k5gmq8v35-mrgzzzs-projects.vercel.app
+CORS_ORIGIN=https://frontend-k5gmq8v35-mrgzzzs-projects.vercel.app```
 
 ## Скриншоты работающего приложения
 <img width="369" height="242" alt="image" src="https://github.com/user-attachments/assets/69c9f83c-05e9-45d5-8b16-3878b69acfcd" />
@@ -71,5 +71,6 @@ CORS_ORIGIN=https://frontend-k5gmq8v35-mrgzzzs-projects.vercel.app
 
 ## Тестирование после деплоя
 Приложение открывается в браузере
+
 
 

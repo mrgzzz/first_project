@@ -37,7 +37,7 @@ pr25-project/
 4. Добавить environment variables в настройках проекта:
    - `NODE_ENV=production`
    - `PORT=5000`
-   - `CORS_ORIGIN=ваш-frontend-url.vercel.app`
+   - `CORS_ORIGIN=https://frontend-k5gmq8v35-mrgzzzs-projects.vercel.app`
 
 ### Деплой фронтенда на Vercel
 
@@ -45,13 +45,13 @@ pr25-project/
 2. Импортировать GitHub репозиторий
 3. Выбрать папку `frontend` как корневую директорию
 4. Добавить environment variable:
-   - `REACT_APP_API_URL=ваш-backend-url.railway.app`
+   - `REACT_APP_API_URL=https://pr25-backend-production.up.railway.app`
 
 ## Environment Variables
-
 ### Backend (.env)
 ```env
 NODE_ENV=production
 PORT=5000
-CORS_ORIGIN=https://your-app.vercel.app
+CORS_ORIGIN=https://frontend-k5gmq8v35-mrgzzzs-projects.vercel.app
+
 
